@@ -1,0 +1,1 @@
+//auto n=atoi(s.c_str())で宣言しよう
