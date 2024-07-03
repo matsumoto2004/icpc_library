@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 #include<cassert>
+
 //#include<ext/pb_ds/assoc_container.hpp>
 //#include<ext/pb_ds/tree_policy.hpp>
 //#include<ext/pb_ds/tag_and_trait.hpp>
@@ -272,5 +273,5 @@ weighted_graph(int n, int m, bool directed = false, int origin = 1) {
 
 
 int main() {
-    
+    std::cout << __cplusplus << std::endl;
 }
